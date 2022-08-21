@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Secret Word
+
+baseado em um programa de televisão que temos que adivinhar palavras, com 1 dica e 3 tentativas.
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
